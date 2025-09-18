@@ -1,162 +1,119 @@
 [![ProfileBanner](https://media.licdn.com/dms/image/v2/D4E16AQGUxYffXytFeA/profile-displaybackgroundimage-shrink_350_1400/B4EZhgmM6jGwAY-/0/1753967285517?e=1761177600&v=beta&t=mkFBsYMuKtWySPqapc-c-VDYt0pYe6OktwRJxCXEDYQ)](https://github.com/ElAmineBakali)
 
-### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+<h1 align="center">Hi, I'm El Amine Bakali 👋</h1>
+<p align="center">
+  Computer Engineering student (Universidad Europea de Madrid) — Full-stack & Mobile dev, automation, data and product-minded.<br/>
+  I enjoy building practical apps that people actually use.
+</p>
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<p align="center">
+  <a href="mailto:bakalilamine@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/el-amine-bakali-7b8170351">LinkedIn</a> •
+  <a href="https://github.com/ElAmineBakali">GitHub</a>
+</p>
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
+---
+
+### About me 🧑‍💻
+- 🎓 Final-year **Computer Engineering** student (UEM).
+- 🛠️ Hands-on with **Python, Java, Flutter/Dart, Angular, Laravel/PHP, Node.js, React, Firebase, PostgreSQL/MySQL**.
+- 🔍 Interests: **AI/ML, data engineering, automation, full-stack product development**.
+- 🌍 Languages: **Spanish & Arabic (native)**, **English (C1)**, **French (B2)**.
+- 💼 Internship experience in ERP/process analysis (IBERRY) and freelance **automation scripts**.
+
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="360" height="240" />
+
+- 🔭 Currently building: personal **all-in-one dashboard** (Flutter + Firebase) and **education/assistive apps**.
+- 🌱 Learning: scalable backends, clean architecture, and production-ready UI/UX.
+- 👯 Open to collaborate on **full-stack** and **mobile** projects with real users.
+- 💬 Ask me about: **Flutter, Angular, Laravel, Firebase, Python, PostgreSQL**.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+- 📈 Visitor counter:  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ElAmineBakali&title=Profile%20Views" />
 
+---
+
+<details>
+<summary><b>Languages & Tools</b> 🛠</summary>
 <br/>
-
----
-
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
-  <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-</details>
-
----
-
-<details>
-<summary> Hackathons 💻: </summary>
   
-<br/>
-
-Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
-HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
-UniHack                 -  [Check out!](https://unihack.eu/)<br/>
-NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
-Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
-ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /></code>
 
 </details>
 
 ---
+
+## Featured Projects ✨
+
+<a href="https://github.com/ProyectoComputacion/SHOPSSAVY-FRONTEND">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProyectoComputacion&repo=SHOPSSAVY-FRONTEND&theme=tokyonight" />
+</a>
+<a href="https://github.com/ProyectoComputacion/SHOPSSAVY-BACKEND">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProyectoComputacion&repo=SHOPSSAVY-BACKEND&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ElAmineBakali/HablandoConTEA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElAmineBakali&repo=HablandoConTEA&theme=tokyonight" />
+</a>
+<a href="https://github.com/ElAmineBakali/Lightnova">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElAmineBakali&repo=Lightnova&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ElAmineBakali/WebEventos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElAmineBakali&repo=WebEventos&theme=tokyonight" />
+</a>
+<a href="https://github.com/ElAmineBakali/recommender_system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElAmineBakali&repo=recommender_system&theme=tokyonight" />
+</a>
+
+---
+
+## GitHub Activity ✔
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAmineBakali&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElAmineBakali&show_icons=true&theme=tokyonight&line_height=27" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ElAmineBakali&theme=tokyonight" />
+</p>
+
+
 
 <details>
-<summary> Connect with me🤝: </summary>  
+<summary>🇪🇸 Español (breve)</summary>
 
-<br/>
-
-<a href="https://t.me/Dave_bhandari">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
-<a href="https://github.com/Davekibh">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://instagram.com/Dave_bhandari/">
-  <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
-  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://twitter.com/dave_bhandari">
-  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
+**Soy El Amine Bakali**, estudiante de último curso de Ingeniería Informática (UEM). Desarrollo aplicaciones **full-stack y móvil** con experiencia en **Python, Java, Flutter/Dart, Angular, Laravel, Firebase y bases de datos** (PostgreSQL/MySQL). Me interesan la **IA/ML**, la automatización y crear productos útiles. Hablo **español y árabe** nativo, **inglés C1** y **francés B2**.
+  
 </details>
 
 ---
-
-### Github Activity ✔:
-
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
-
-<br/>
-<br/>
-<br/>
-
-### My Projects ✨:
-  
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
-
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
 
 <div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
-
+  Show ❤️ by ⭐ starring my repositories!
 </div>
------
-Credits: [Davekibh](https://github.com/Davekibh)
 
-Last Edited on: 15/01/2021
+<br/>
+
+_Last updated: {{DATE}}_
+
