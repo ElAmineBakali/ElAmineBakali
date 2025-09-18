@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
+[![ProfileBanner](https://media.licdn.com/dms/image/v2/D4E16AQGUxYffXytFeA/profile-displaybackgroundimage-shrink_350_1400/B4EZhgmM6jGwAY-/0/1753967285517?e=1761177600&v=beta&t=mkFBsYMuKtWySPqapc-c-VDYt0pYe6OktwRJxCXEDYQ)](https://github.com/ElAmineBakali)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
